@@ -25,6 +25,17 @@
 
 ## ・Implemented Features
 
+## [1.0.20]
+
+- Added a toggle to disable pinch-to-zoom in the main menu.
+    - Also switchable via gestures.
+    - When I’m lying in bed using my phone, my palm would often brush against the screen and accidentally zoom in.
+    - It was incredibly frustrating, but this solves the problem.
+    - I really wonder why Chromium doesn’t offer a feature to turn zoom off.
+    - I thought I could probably solve this with a user script, but since it will allow for even more detailed customization in the future, I think it was worth the effort.
+
+<br>
+
 ## [1.0.19]
 
 - **Added support for external download managers.**
